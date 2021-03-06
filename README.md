@@ -17,8 +17,8 @@ brew install zlib-devel # MacOS
 
 2. Clone and build
 ```
-git clone https://github.com/Vertver/cmake-guids.git
-cd cmake-guids
+git clone https://github.com/Vertver/cmake-guides.git
+cd cmake-guides
 mkdir build
 cd build
 
